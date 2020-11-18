@@ -7,10 +7,10 @@ C'est là que les questions suivantes nous sont parvenues : Quels sont les facte
 Ainsi, nous sommes parties de l'hypothèse suivante : les nouveaux aménagements participent grandement à la hausse du prix de vente immobilière dans le quartier où ils sont construits. 
 # Comparaison de l'évolution du prix de vente immobilière entre le 2e et le 3e arrondissement en fonction des aménagements. 
 Afin de vérifier notre hypothèse, nous avons décidé de centrer cette étude sur les 2e et 3e arrondissements de Marseille. Nous avons choisi ces deux arrondissements car ils ont connu ces dernières années de nombreux aménagements, notamment avec les aménagements Euromed, considérables. Ce sont deux arrondissements de centre-ville qui présentent de nombreuses similitudes. En ce sens, une étude comparative nous a semblée bénéfique afin de répondre à notre hypothèse. Tout d'abord, voici un tour d'horizon du projet Euromed à Marseille. 
-# # Le projet EUROMED 
+## Le projet EUROMED 
 En 1995, Robert Vigouroux, maire de Marseille, lance le programme Euroméditerranée pour la mise en place d’un établissement public d’aménagement. Le programme Euroméditerranée acte 2, en 2007, relance et étend ce projet. Dans ce cadre-là, de nombreuses constructions et rénovations voient le jour, depuis 2014 notamment, permettant la redynamisation de certains quartiers. 
 Nous avons établi une cartographie des constructions EUROMED entre 2014 et 2019 pour rendre compte de l'importance de ces aménagements. Comme nous pouvons le remarquer, ces aménagements concernent les 2e et 3e arrondissements de Marseille. Pour réaliser cette carte, nous avons extrait des données directement depuis le site Euromed. 
-# # Les aménagements du 2e et du 3e arrondissements de Marseille. 
+## Les aménagements du 2e et du 3e arrondissements de Marseille. 
 Pour rendre compte des aménagements du 2e et du 3e arrondissements à Marseille, nous avons réalisé une autre cartographie, toujours avec DataWrapper, qui recense la plupart des constructions qui ont eu lieues entre 2014 et 2019. Nous pouvons voir que des centres commerciaux, des bureaux, des espaces publics, des musées ou encore des lignes de tramway ont permis une dynamisation de ces quartiers. 
 
 <!DOCTYPE html>
